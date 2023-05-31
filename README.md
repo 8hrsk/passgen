@@ -1,3 +1,3 @@
 # PassGen v0.0.1
-|||||||---
-% of update ready
+next update coming soon!
+web-service for generating and saving your passwords
